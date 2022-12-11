@@ -1,13 +1,17 @@
 # これは何
 
 brefのLaravelのサンプルです。
-たぶん、`npm i -g serverless`しておけば動きそうです。
 
 # brefについて
 
-おおむね下記を実行しています。
+公式です。
 
 https://bref.sh/docs/
+
+## どういう環境か？
+
+おおむね下記を実行しています。
+たぶん、`npm i -g serverless`しておけば動きそうです。
 
 https://bref.sh/docs/installation.html
 
